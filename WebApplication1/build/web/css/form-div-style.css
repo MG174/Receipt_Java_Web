@@ -1,0 +1,28 @@
+.centered-div-form {
+    width:30%;
+    height:30%;
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+h1 {
+    margin:auto;
+    text-align:center;
+}
+file-input {
+    margin-left: 15%;
+}
+.centered-div-alert {
+    width:30%;
+    height:30%;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
