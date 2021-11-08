@@ -28,6 +28,8 @@ Used technologies:
 
 -MySql database (local)
 
+-Apache Tomcat Server
+
 Check the video of the project on youtube:
 
 
