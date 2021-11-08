@@ -32,6 +32,7 @@ Used technologies:
 
 Check the video of the project on youtube:
 
+https://youtu.be/jA5wxOO3QZ8
 
 
 Some code was removed due to safety reasons (database connection and BCrypt)
